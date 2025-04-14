@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Camera",
+      "description": "A classic film camera in excellent condition.",
+      "currentBidPrice": 120.5,
+      "timeLeft": "2h 30m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co/DfLbcXk5/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "Antique Watch",
+      "description": "Rare 1960s wristwatch with leather strap.",
+      "currentBidPrice": 245.0,
+      "timeLeft": "1d 3h",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co/R40dTsDH/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Collectible Toy Car",
+      "description": "Limited edition die-cast model car.",
+      "currentBidPrice": 75.99,
+      "timeLeft": "12h 45m",
+      "bidsCount": 5,
+      "image": "https://i.ibb.co/MysLss8N/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Signed Baseball",
+      "description": "Autographed by a famous player, includes certificate.",
+      "currentBidPrice": 320.0,
+      "timeLeft": "3d 1h",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co/4gXKSb63/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "Classic Guitar",
+      "description": "Acoustic guitar with rich tone, great for beginners.",
+      "currentBidPrice": 189.99,
+      "timeLeft": "4h 10m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co/8nnFVq1V/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Designer Handbag",
+      "description": "Luxury brand handbag in near-new condition.",
+      "currentBidPrice": 530.0,
+      "timeLeft": "5d 6h",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co/8DZBVTjH/Bid6-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Vintage Vinyl Record",
+      "description": "Classic rock album, original pressing.",
+      "currentBidPrice": 48.25,
+      "timeLeft": "7h 20m",
+      "bidsCount": 9,
+      "image": "https://i.ibb.co/TD9Gbt8B/Bid7-min.png"
+    },
+    {
+      "id": 8,
+      "title": "Retro Lamp",
+      "description": "Colorful 80s table lamp, works perfectly.",
+      "currentBidPrice": 60.0,
+      "timeLeft": "10h 55m",
+      "bidsCount": 4,
+      "image": "https://i.ibb.co/R40dTsDH/Bid2-min.png"
+    },
+    {
+      "id": 9,
+      "title": "Leather Jacket",
+      "description": "Vintage style genuine leather jacket, size M.",
+      "currentBidPrice": 150.0,
+      "timeLeft": "6d 12h",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co/4gXKSb63/Bid4-min.png"
+    },
+    {
+      "id": 10,
+      "title": "Mountain Bike",
+      "description": "Sturdy bike with aluminum frame and disc brakes.",
+      "currentBidPrice": 480.75,
+      "timeLeft": "2d 5h",
+      "bidsCount": 19,
+      "image": "https://i.ibb.co/MysLss8N/Bid3-min.png"
+    },
+    {
+      "id": 11,
+      "title": "Comic Book Set",
+      "description": "Full collection of superhero issues from the 90s.",
+      "currentBidPrice": 95.0,
+      "timeLeft": "1d 4h",
+      "bidsCount": 7,
+      "image": "https://i.ibb.co/8DZBVTjH/Bid6-min.png"
+    },
+    {
+      "id": 12,
+      "title": "Luxury Pen",
+      "description": "Gold-plated signature pen with original box.",
+      "currentBidPrice": 210.99,
+      "timeLeft": "8h 30m",
+      "bidsCount": 11,
+      "image": "https://i.ibb.co/TD9Gbt8B/Bid7-min.png"
+    },
+    {
+      "id": 13,
+      "title": "Gaming Console",
+      "description": "Retro gaming console with 50 built-in games.",
+      "currentBidPrice": 140.0,
+      "timeLeft": "9h 15m",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co/8nnFVq1V/Bid5-min.png"
+    },
+    {
+      "id": 14,
+      "title": "Mini Projector",
+      "description": "Portable HD projector for movies and presentations.",
+      "currentBidPrice": 225.0,
+      "timeLeft": "3d 8h",
+      "bidsCount": 16,
+      "image": "https://i.ibb.co/DfLbcXk5/Bid1-min.png"
+    }
+  ]
+  
